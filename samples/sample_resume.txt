@@ -1,0 +1,27 @@
+Alex Chen
+Berlin, Germany | alex.chen@email.com | +49 170 123 4567 | github.com/alexchen
+
+SUMMARY
+Senior software engineer with 6+ years building Python backends and React frontends for B2B SaaS. Strong in API design, PostgreSQL, and cloud deployment.
+
+EXPERIENCE
+
+Senior Software Engineer - TechFlow GmbH, Berlin
+Jan 2021 - Present
+- Led migration of monolith to FastAPI microservices serving 2M+ API requests/month
+- Built React admin dashboard used by 40+ enterprise customers
+- Introduced CI/CD with Docker and GitHub Actions, cutting deploy time by 60%
+
+Software Engineer - DataNest AG, Munich
+Jun 2018 - Dec 2020
+- Developed REST APIs in Python for analytics platform (PostgreSQL, Redis)
+- Collaborated in Agile squads with product and design
+
+EDUCATION
+M.Sc. Computer Science - Technical University of Munich, 2018
+
+SKILLS
+Python, TypeScript, React, FastAPI, PostgreSQL, AWS, Docker, Agile/Scrum
+
+LANGUAGES
+English (fluent), German (B1, learning)

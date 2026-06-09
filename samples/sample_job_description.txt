@@ -1,0 +1,21 @@
+Senior Software Engineer - Amsterdam, Europe (Hybrid)
+
+We are looking for a Senior Software Engineer to join our platform team building scalable B2B SaaS products.
+
+Requirements:
+- 5+ years of experience with Python and TypeScript
+- Strong experience with React, FastAPI, and PostgreSQL
+- Experience designing REST APIs and microservices
+- Familiarity with AWS, Docker, and CI/CD pipelines
+- Experience with Agile/Scrum in cross-functional teams
+- Excellent communication skills in English; additional European languages are a plus
+
+Nice to have:
+- Experience with event-driven architectures (Kafka)
+- Prior work in fintech or regulated industries
+- Contributions to open source
+
+What we offer:
+- Competitive salary and 30 days holiday
+- Hybrid work (2 days in office)
+- Learning budget and conference attendance
